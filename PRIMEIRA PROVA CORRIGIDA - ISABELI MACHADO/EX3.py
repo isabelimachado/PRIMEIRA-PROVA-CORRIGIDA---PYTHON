@@ -2,7 +2,6 @@
 #!TERCEIRA QUESTÃO DA PROVA DE DICIONARIO E TUPLA - ISABELI MACHADO - 2137 - 25/09
 dicionario = {}
 
-
 #!B)-------------------------------------------------------------
 
 def atualizar():
